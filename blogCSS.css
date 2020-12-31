@@ -4,5 +4,33 @@ h1{
 }
 
 h2{
+  color: aqua;
   text-align: center;
+
+}
+h3{
+  color: aqua;
+  margin-left: 250px;
+}
+h4{
+  color: white;
+  margin-left: 250px;
+}
+ol{
+  color: white;
+  margin-left: 250px;
+  margin-bottom: 250px;
+}
+a{
+  color: aqua;
+}
+body{
+  background-color: black;
+
+}
+p{
+  color: white;
+  margin-left: 250px;
+  margin-right: 250px;
+  
 }
